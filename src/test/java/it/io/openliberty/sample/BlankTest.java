@@ -7,4 +7,9 @@ public class BlankTest {
     public void EmptyTest() {
         System.out.println("Empty test ran!");
     }
+
+    @Test
+    public void AnotherEmptyTest() {
+        System.out.println("Another empty test ran!");
+    }
 }
